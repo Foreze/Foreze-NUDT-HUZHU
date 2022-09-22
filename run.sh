@@ -1,2 +1,4 @@
 #!/bin/bash
-DEBUG=nudt-huzhu:* npm run start
+#test pull request
+#chongkai test pull request
+DEBUG=express-locallibrary-tutorial:* npm start
