@@ -1,2 +1,2 @@
 #!/bin/bash
-DEBUG=express-locallibrary-tutorial:* npm devstart
+DEBUG=nudt-huzhu:* npm run devstart
